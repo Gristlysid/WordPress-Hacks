@@ -1,5 +1,6 @@
 # WordPress-Hacks
 
+To add another button with a custom link in your Wordpress Product Page by WooCommerce 
 YOu need to add this code to your function.php theme files
 In case you are new you need have a CHILD theme 
 
